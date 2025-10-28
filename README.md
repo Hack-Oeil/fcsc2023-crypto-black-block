@@ -9,7 +9,7 @@ Fichiers:
 - [output.txt](output.txt)
 
 
-Auteurs : hg, jrr, [Cryptanalyse](https://twitter.com/Cryptanalyse)
+Auteurs : hg, jrr, [Cryptanalyse](https://x.com/Cryptanalyse)
 
 
 Origine : [Black Block](https://hackropole.fr/fr/challenges/crypto/fcsc2023-crypto-black-block/)
